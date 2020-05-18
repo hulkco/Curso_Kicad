@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Fuente_12v-cache)(type Legacy)(uri ${KIPRJMOD}/Fuente_12v-cache.lib)(options "")(descr ""))
+  (lib (name Firma)(type Legacy)(uri ${KIPRJMOD}/Firma.lib)(options "")(descr ""))
+)
